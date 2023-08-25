@@ -1,0 +1,35 @@
+* {
+    font-family: roboto, sans-serif;
+    background-color: #1F2937;
+}
+
+/*Header Section*/
+
+.header-nav-list {
+    background-color: #1F2937;
+    padding-left: 30rem;
+    padding-right: 30rem;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.nav-item {
+    list-style: none;
+    margin-right: 2rem;
+}
+
+.nav-item a {
+    text-decoration: none;
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.nav-item:first-child {
+    margin-right: auto;
+}
+
+.header-img {
+    width: 60px;
+    height: auto;
+}
