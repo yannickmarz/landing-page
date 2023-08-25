@@ -33,10 +33,11 @@ header {
     margin-right: auto;
 }
 
-.header-img {
+ .header-img {
     width: 60px;
     height: auto;
 }
+
 
 /* Hero Section*/
 
@@ -101,7 +102,7 @@ header {
     background-color: white;
     margin-bottom: 0px;
     padding-bottom: 50px;
-    padding-top: 75px
+    padding-top: 75px;
 }
 
 .information-container {
@@ -112,10 +113,10 @@ header {
     text-align: center;
     padding-bottom: 75px;
     padding-right: 12rem;
-    padding-left: 12em;
+    padding-left: 12rem;
 }
 
 .information-img {
-    width: 100px;
+    width: 135px;
     height: auto;
 }
